@@ -6,4 +6,5 @@ import (
 
 func main() {
 	go_headfirst_datafile.GetStrings()
+	go_headfirst_datafile.GetStrings()
 }
